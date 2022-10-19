@@ -99,6 +99,68 @@
        "selectedVariantIndex": 0,
        "relatedInfo": "Special Concert Website: https://stellarintothegalaxy.hololive.tv/",
        "options": "Contact orders.catalog@franciswibisono.com"
+     },
+     {
+       "id": 2,
+       "name": "Hololive 3D Acrylic Stand [Gen 0]",
+       "defaultPrice": 208000,
+       "imageURL": "https://is3.cloudhost.id/francis/public/evermos/acrylic/1.webp",
+       "tags": [
+         "Tokino Sora",
+         "Hoshimachi Suisei",
+         "Robocosan",
+         "AZKi",
+         "Sakura Miko",
+         "Physical",
+         "Collab",
+         "HoloLive",
+         "HololiveJP"
+       ],
+       "headline": "Merch sales for the 3D Acrylic Stands of hololive talents.",
+       "imageURLS": [
+         "https://is3.cloudhost.id/francis/public/evermos/acrylic/0.webp",
+         "https://is3.cloudhost.id/francis/public/evermos/acrylic/1.webp"
+       ],
+       "variants": [
+         {
+           "name": "3D Acrylic Stand (Tokino Sora)",
+           "isSelected": true,
+           "isDisabled": false,
+           "price": 208000,
+           "description": "3D Acrylic Stand\n　Size: Approx. H216~250mm x W55~140mm \n　　    Approx. H80 x W80mm (Pedestal)"
+         },
+         {
+           "name": "3D Acrylic Stand (Hoshimachi Suisei)",
+           "isSelected": false,
+           "isDisabled": false,
+           "price": 208000,
+           "description": "3D Acrylic Stand\n　Size: Approx. H216~250mm x W55~140mm \n　　    Approx. H80 x W80mm (Pedestal)"
+         },
+         {
+           "name": "3D Acrylic Stand (Robocosan)",
+           "isSelected": false,
+           "isDisabled": false,
+           "price": 208000,
+           "description": "3D Acrylic Stand\n　Size: Approx. H216~250mm x W55~140mm \n　　    Approx. H80 x W80mm (Pedestal)"
+         },
+         {
+           "name": "3D Acrylic Stand (AZKi)",
+           "isSelected": false,
+           "isDisabled": false,
+           "price": 208000,
+           "description": "3D Acrylic Stand\n　Size: Approx. H216~250mm x W55~140mm \n　　    Approx. H80 x W80mm (Pedestal)"
+         },
+         {
+           "name": "3D Acrylic Stand (Sakura Miko)",
+           "isSelected": false,
+           "isDisabled": false,
+           "price": 208000,
+           "description": "3D Acrylic Stand\n　Size: Approx. H216~250mm x W55~140mm \n　　    Approx. H80 x W80mm (Pedestal)"
+         }
+       ],
+       "selectedVariantIndex": 0,
+       "relatedInfo": "Special Concert Website: https://stellarintothegalaxy.hololive.tv/",
+       "options": "Contact orders.catalog@franciswibisono.com"
      }
    ]
 }
